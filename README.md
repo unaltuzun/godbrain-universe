@@ -312,7 +312,7 @@ Ticari kullanım, kopyalama ve türev projeler için lisans koşulları henüz n
 
 ## 12. İmza
 
-GODBRAIN TITANIUM & GODCOSMIC_CORE
+GODBRAIN QUANTUM & GODCOSMIC_CORE
 **Design & Architecture**
 
 **Ünal Tüzün / Azun'el Skywolf**
