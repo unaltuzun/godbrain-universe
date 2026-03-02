@@ -1,0 +1,10 @@
+.env
+.env.*
+__pycache__/
+*.pyc
+venv/
+.idea/
+node_modules/
+dist/
+*.pem
+*.key
